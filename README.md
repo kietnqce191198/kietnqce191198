@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **kietnq.ce191198@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
